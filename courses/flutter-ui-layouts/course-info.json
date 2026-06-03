@@ -1,0 +1,64 @@
+{
+  "title": "Flutter UI & Layouts",
+  "slug": "flutter-ui-layouts",
+  "level": "beginner",
+  "total_lessons": 24,
+  "estimated_hours": 6.0,
+  "description": "Learn how to design clean Flutter screens using layout widgets, spacing, visual hierarchy, scrollable lists, reusable UI parts, themes, and responsive design patterns.",
+  "modules": [
+    {
+      "title": "Layout Thinking",
+      "slug": "module-01-layout-thinking",
+      "lessons": [
+        "UI Design Mindset for Flutter",
+        "Understanding Flutter Constraints",
+        "Spacing, Alignment, and Visual Balance",
+        "Building a Clean Widget Tree"
+      ]
+    },
+    {
+      "title": "Core Layout Widgets",
+      "slug": "module-02-core-layout-widgets",
+      "lessons": [
+        "Container and SizedBox",
+        "Padding and Margin",
+        "Row and Column",
+        "Expanded and Flexible",
+        "Stack and Positioned"
+      ]
+    },
+    {
+      "title": "Scrollable Interfaces",
+      "slug": "module-03-scrollable-interfaces",
+      "lessons": [
+        "SingleChildScrollView",
+        "ListView Basics",
+        "GridView Basics",
+        "List Tiles and Sectioned Lists",
+        "PageView for Onboarding"
+      ]
+    },
+    {
+      "title": "App UI Components",
+      "slug": "module-04-app-ui-components",
+      "lessons": [
+        "Cards and Course Items",
+        "AppBar and Screen Headers",
+        "Bottom Navigation UI",
+        "Buttons and Action Areas",
+        "Input Fields and Search UI"
+      ]
+    },
+    {
+      "title": "Responsive and Polished UI",
+      "slug": "module-05-responsive-and-polished-ui",
+      "lessons": [
+        "Responsive Layout Basics",
+        "Themes, Colors, and Text Styles",
+        "Reusable UI Components",
+        "Empty, Loading, and Error States",
+        "Final Project: Learning Dashboard UI"
+      ]
+    }
+  ]
+}
