@@ -67,9 +67,7 @@ flutter run
 
 Download **Flutter Code Sheet** to follow along with guided lessons, quizzes, and progress tracking:
 
-<!-- TODO: Add app store links -->
-- 🍎 [App Store](#)
-- 🤖 [Google Play](#)
+- 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.gymli.app)
 
 ---
 
