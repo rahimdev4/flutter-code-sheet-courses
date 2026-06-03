@@ -1,0 +1,63 @@
+{
+  "title": "Flutter State Management Basics",
+  "slug": "flutter-state-management-basics",
+  "level": "intermediate",
+  "total_lessons": 23,
+  "estimated_hours": 6.0,
+  "description": "Learn how Flutter apps remember values, update screens, manage shared data, and build real app features using setState, ValueNotifier, and Provider.",
+  "modules": [
+    {
+      "title": "State Management Foundations",
+      "slug": "module-01-state-management-foundations",
+      "lessons": [
+        "What is State in Flutter?",
+        "Local State vs App State",
+        "How Flutter Rebuilds UI",
+        "Common State Mistakes"
+      ]
+    },
+    {
+      "title": "setState Deep Dive",
+      "slug": "module-02-setstate-deep-dive",
+      "lessons": [
+        "Counter with setState",
+        "Toggle UI with setState",
+        "Updating Lists with setState",
+        "Async Loading with setState",
+        "When setState is Not Enough"
+      ]
+    },
+    {
+      "title": "ValueNotifier and ValueListenableBuilder",
+      "slug": "module-03-valuenotifier-and-valuelistenablebuilder",
+      "lessons": [
+        "What is ValueNotifier?",
+        "ValueListenableBuilder",
+        "Simple Theme Switcher",
+        "ValueNotifier Limits"
+      ]
+    },
+    {
+      "title": "Provider and ChangeNotifier",
+      "slug": "module-04-provider-and-changenotifier",
+      "lessons": [
+        "What is Provider?",
+        "ChangeNotifier Basics",
+        "Reading Provider Data",
+        "Provider with Multiple Screens",
+        "Organizing Provider Code"
+      ]
+    },
+    {
+      "title": "Real App State Patterns",
+      "slug": "module-05-real-app-state-patterns",
+      "lessons": [
+        "Favorites System",
+        "Cart System Concept",
+        "Login State Concept",
+        "Loading, Success, and Error State",
+        "Final Project: Notes State App"
+      ]
+    }
+  ]
+}
