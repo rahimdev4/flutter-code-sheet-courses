@@ -1,0 +1,16 @@
+{
+  "title": "Firebase for Flutter Apps",
+  "slug": "firebase-for-flutter-apps",
+  "level": "advanced",
+  "total_lessons": 25,
+  "estimated_hours": 8.0,
+  "description": "Learn how to build real Flutter apps with Firebase Auth, Firestore, Storage, Security Rules, Cloud Messaging concepts, Analytics concepts, and a complete Firebase Notes App project.",
+  "modules": [
+    {"title":"Firebase Foundations","slug":"module-01-firebase-foundations","lessons":["What is Firebase?","Creating a Firebase Project","Connecting Flutter to Firebase","Understanding Firebase Core"]},
+    {"title":"Firebase Authentication","slug":"module-02-firebase-authentication","lessons":["Firebase Auth Overview","Email Sign Up and Login","Managing Auth State","Google Sign In Concept"]},
+    {"title":"Cloud Firestore Database","slug":"module-03-cloud-firestore-database","lessons":["What is Cloud Firestore?","Reading Data from Firestore","Adding Data to Firestore","Updating and Deleting Firestore Data","Filtering, Ordering, and Limits"]},
+    {"title":"User Data and Security Rules","slug":"module-04-user-data-and-security-rules","lessons":["Creating a User Profile Document","User Owned Data in Firestore","Firebase Security Rules Basics","Common Firebase Permission Errors"]},
+    {"title":"Firebase Storage and App Services","slug":"module-05-firebase-storage-and-app-services","lessons":["Firebase Storage Basics","Uploading Images from Flutter","Reading Download URLs","Firebase Cloud Messaging Concept","Firebase Analytics Concept"]},
+    {"title":"Architecture and Final Project","slug":"module-06-architecture-and-final-project","lessons":["Repository Pattern with Firebase","Firebase with Riverpod Concept","Final Project: Firebase Notes App"]}
+  ]
+}
