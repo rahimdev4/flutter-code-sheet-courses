@@ -1,4 +1,4 @@
-# Lesson 07 — If/Else Conditions
+# Lesson 07 — If, Else If, and Else
 
 ## 📖 Explanation
 
@@ -8,7 +8,7 @@ Conditions let your program make decisions. The `if` statement runs code only wh
 
 - Basic `if/else` structure
 - `else if` for multiple conditions
-- Nested conditions
+- Combining conditions with logical operators
 
 ## ▶️ How to Run
 

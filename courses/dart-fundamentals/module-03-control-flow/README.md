@@ -12,7 +12,7 @@ Learn how to control the flow of your program using conditions and loops.
 
 | # | Lesson | Description |
 |---|--------|-------------|
-| 7 | [If/Else Conditions](lesson-07-if-else-conditions/) | Making decisions with if/else |
+| 7 | [If, Else If, and Else](lesson-07-if-else-if-and-else/) | Making decisions with conditions |
 | 8 | [Switch Statements](lesson-08-switch-statements/) | Matching values with switch |
 | 9 | [Loops in Dart](lesson-09-loops-in-dart/) | Repeating actions with for, while, do-while |
 
@@ -21,4 +21,3 @@ Learn how to control the flow of your program using conditions and loops.
 - How to write `if`, `else if`, and `else` conditions
 - When to use `switch` instead of `if/else`
 - How to use `for`, `while`, and `do-while` loops
-- How to use `break` and `continue`

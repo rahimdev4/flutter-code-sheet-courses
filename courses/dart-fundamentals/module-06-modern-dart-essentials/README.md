@@ -6,19 +6,20 @@ Master Dart's modern features that every Flutter developer needs.
 
 ## 🎯 Module Goal
 
-Understand null safety and asynchronous programming — two essential concepts for building real Flutter apps.
+Understand null safety, async programming, error handling, and clean coding habits before jumping into Flutter.
 
 ## 📚 Lessons
 
 | # | Lesson | Description |
 |---|--------|-------------|
-| 16 | [Null Safety](lesson-16-null-safety/) | Handling null values safely |
-| 17 | [Async and Await](lesson-17-async-and-await/) | Working with asynchronous code |
-| 18 | [Final Practice](lesson-18-final-practice/) | Combined practice exercise |
+| 18 | [Null Safety](lesson-18-null-safety/) | Handling null values safely |
+| 19 | [Future, Async, and Await](lesson-19-future-async-and-await/) | Working with asynchronous code |
+| 20 | [Try, Catch, and Exceptions](lesson-20-try-catch-and-exceptions/) | Handling errors gracefully |
+| 21 | [Clean Dart Habits for Flutter](lesson-21-clean-dart-habits-for-flutter/) | Best practices before starting Flutter |
 
 ## ✅ After This Module You Should Know
 
-- What null safety is and why Dart uses it
-- How to use `?`, `!`, `??`, and `late` with nullable types
+- How null safety works with `?`, `!`, `??`, and `late`
 - How `Future`, `async`, and `await` work
-- How to combine all Dart fundamentals in a practice project
+- How to handle errors with `try/catch/finally`
+- Clean coding habits for writing Flutter-ready Dart

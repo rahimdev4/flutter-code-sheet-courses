@@ -1,4 +1,4 @@
-# 📦 Module 04 — Functions & Collections
+# 📦 Module 04 — Functions and Collections
 
 Reuse code with functions and organize data with collections.
 
@@ -6,7 +6,7 @@ Reuse code with functions and organize data with collections.
 
 ## 🎯 Module Goal
 
-Learn how to write reusable functions and work with Dart's built-in collection types: Lists and Maps.
+Learn how to write reusable functions and work with Dart's collection types: Lists, Maps, and Sets.
 
 ## 📚 Lessons
 
@@ -15,10 +15,10 @@ Learn how to write reusable functions and work with Dart's built-in collection t
 | 10 | [Functions](lesson-10-functions/) | Defining and calling functions |
 | 11 | [Lists](lesson-11-lists/) | Ordered collections of items |
 | 12 | [Maps](lesson-12-maps/) | Key-value pair collections |
+| 13 | [Sets and Collection Choices](lesson-13-sets-and-collection-choices/) | Unique collections and when to use what |
 
 ## ✅ After This Module You Should Know
 
 - How to define functions with parameters and return types
-- The difference between positional and named parameters
-- How to create, modify, and iterate over Lists
-- How to use Maps for key-value data storage
+- How to work with Lists, Maps, and Sets
+- When to choose List vs Set vs Map

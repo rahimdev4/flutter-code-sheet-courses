@@ -1,4 +1,4 @@
-/// Lesson 07 — If/Else Conditions
+/// Lesson 07 — If, Else If, and Else
 ///
 /// Making decisions based on conditions.
 

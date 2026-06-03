@@ -1,4 +1,4 @@
-/// Lesson 17 — Async and Await
+/// Lesson 19 — Future, Async, and Await
 ///
 /// Working with asynchronous operations in Dart.
 
@@ -16,14 +16,6 @@ void main() async {
   String email = await fetchEmail();
   print('👤 User: $user');
   print('📧 Email: $email');
-
-  // Error handling
-  print('');
-  try {
-    await failingOperation();
-  } catch (e) {
-    print('❌ Error caught: $e');
-  }
 
   print('');
   print('✅ All done!');
@@ -45,10 +37,4 @@ Future<String> fetchUser() async {
 Future<String> fetchEmail() async {
   await Future.delayed(Duration(milliseconds: 500));
   return 'learner@dart.dev';
-}
-
-/// Simulates an operation that fails.
-Future<void> failingOperation() async {
-  await Future.delayed(Duration(milliseconds: 300));
-  throw Exception('Something went wrong!');
 }

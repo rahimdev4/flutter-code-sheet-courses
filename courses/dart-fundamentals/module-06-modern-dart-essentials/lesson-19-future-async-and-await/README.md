@@ -1,4 +1,4 @@
-# Lesson 17 — Async and Await
+# Lesson 19 — Future, Async, and Await
 
 ## 📖 Explanation
 
@@ -8,7 +8,7 @@ Asynchronous programming lets your program do other work while waiting for slow 
 
 - Creating a `Future` that completes after a delay
 - Using `async` and `await` to write clean async code
-- Handling errors with `try/catch`
+- Running multiple futures
 
 ## ▶️ How to Run
 
@@ -22,5 +22,5 @@ Write an async function that simulates checking a username's availability (with 
 
 ---
 
-<!-- APP_LESSON_LINK: dart-fundamentals/module-06/lesson-17 -->
+<!-- APP_LESSON_LINK: dart-fundamentals/module-06/lesson-19 -->
 [Open in Flutter Code Sheet](#)

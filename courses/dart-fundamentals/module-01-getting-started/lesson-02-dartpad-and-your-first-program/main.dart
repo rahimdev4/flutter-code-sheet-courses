@@ -1,12 +1,18 @@
-/// Lesson 03 — Your First Dart Program
+/// Lesson 02 — DartPad and Your First Program
 ///
-/// A simple program that introduces variables and print output.
+/// Your first Dart program! Open DartPad (dartpad.dev) and try it out.
 
 void main() {
+  // Your very first Dart program
+  print('Hello, Dart! 🎯');
+
+  // Variables
   String name = 'Dart Learner';
   int age = 20;
   String goal = 'Build amazing Flutter apps';
 
+  // Printing with string interpolation
+  print('');
   print('👋 Hi, I\'m $name!');
   print('📅 I\'m $age years old.');
   print('🎯 My goal: $goal');
