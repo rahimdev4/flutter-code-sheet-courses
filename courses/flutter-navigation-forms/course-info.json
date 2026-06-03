@@ -1,0 +1,62 @@
+{
+  "title": "Flutter Navigation & Forms",
+  "slug": "flutter-navigation-forms",
+  "level": "beginner",
+  "total_lessons": 22,
+  "estimated_hours": 5.5,
+  "description": "Learn how to connect Flutter screens, pass data between pages, build common navigation patterns, collect user input, validate forms, and create real multi-screen app flows.",
+  "modules": [
+    {
+      "title": "Navigation Fundamentals",
+      "slug": "module-01-navigation-fundamentals",
+      "lessons": [
+        "What is Navigation in Flutter?",
+        "Navigator and MaterialPageRoute",
+        "Going Back with Navigator.pop",
+        "Passing Data to Another Screen"
+      ]
+    },
+    {
+      "title": "Multi Screen App Flow",
+      "slug": "module-02-multi-screen-app-flow",
+      "lessons": [
+        "Returning Data from a Screen",
+        "Named Routes Basics",
+        "Bottom Navigation Flow",
+        "Drawer Navigation",
+        "Navigation Mistakes to Avoid"
+      ]
+    },
+    {
+      "title": "Text Input Essentials",
+      "slug": "module-03-text-input-essentials",
+      "lessons": [
+        "TextField Basics",
+        "TextEditingController",
+        "InputDecoration and Better UI",
+        "Keyboard Types and Password Fields"
+      ]
+    },
+    {
+      "title": "Forms and Validation",
+      "slug": "module-04-forms-and-validation",
+      "lessons": [
+        "Form Widget and GlobalKey",
+        "Required Field Validation",
+        "Email and Password Validation",
+        "Dropdowns, Checkboxes, and Switches",
+        "Showing Form Errors Clearly"
+      ]
+    },
+    {
+      "title": "Real Form Projects",
+      "slug": "module-05-real-form-projects",
+      "lessons": [
+        "Login Form Screen",
+        "Signup Form Screen",
+        "Edit Profile Form",
+        "Final Project: Multi Screen Form App"
+      ]
+    }
+  ]
+}
