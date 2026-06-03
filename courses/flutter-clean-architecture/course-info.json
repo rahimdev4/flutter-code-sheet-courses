@@ -1,0 +1,16 @@
+{
+  "title": "Flutter Clean Architecture",
+  "slug": "flutter-clean-architecture",
+  "level": "advanced",
+  "total_lessons": 28,
+  "estimated_hours": 9.0,
+  "description": "Learn how to structure professional Flutter apps with feature based folders, presentation, domain and data layers, entities, models, repositories, use cases, dependency flow, Riverpod integration, error handling, caching concepts, and a complete Clean Notes App project.",
+  "modules": [
+    {"title":"Clean Architecture Foundations","slug":"module-01-clean-architecture-foundations","lessons":["What is Clean Architecture?","Why Flutter Apps Need Architecture","Separation of Concerns","Feature First vs Layer First Structure"]},
+    {"title":"Layers and Project Structure","slug":"module-02-layers-and-project-structure","lessons":["Presentation Layer","Domain Layer","Data Layer","Core Layer and Shared Utilities","Building a Scalable Folder Structure"]},
+    {"title":"Models, Entities, and Mapping","slug":"module-03-models-entities-and-mapping","lessons":["Entity vs Model","DTOs and API Response Models","Mapping Data Safely","Handling Null and Optional Data"]},
+    {"title":"Repositories, Use Cases, and Services","slug":"module-04-repositories-use-cases-and-services","lessons":["Repository Pattern Deep Dive","Remote Data Source and Local Data Source","Use Cases for Business Logic","Service Classes and External APIs","Designing Testable Code"]},
+    {"title":"State, Errors, and Dependency Flow","slug":"module-05-state-errors-and-dependency-flow","lessons":["Riverpod with Clean Architecture","Async State in Real Apps","Failure and Error Handling","Dependency Injection Concept","Logging and Debugging Architecture"]},
+    {"title":"Production App Architecture Project","slug":"module-06-production-app-architecture-project","lessons":["Architecture for API and Cache","Architecture for Auth and User Data","Architecture for Supabase and Firebase Apps","Refactoring a Messy Screen","Final Project: Clean Notes App"]}
+  ]
+}
