@@ -1,0 +1,10 @@
+{
+  "id": "flutter-basics",
+  "title": "Flutter Basics",
+  "description": "Learn Flutter from scratch — widgets, layouts, and building your first apps.",
+  "difficulty": "beginner",
+  "totalModules": 2,
+  "totalLessons": 2,
+  "language": "flutter",
+  "version": "1.0.0"
+}
