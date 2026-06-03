@@ -1,0 +1,69 @@
+{
+  "title": "Flutter Local Storage & Offline Apps",
+  "slug": "flutter-local-storage-offline-apps",
+  "level": "intermediate",
+  "total_lessons": 23,
+  "estimated_hours": 7.0,
+  "description": "Learn how to save data inside Flutter apps using SharedPreferences, secure storage concepts, Hive style local databases, JSON caching, offline first thinking, and real app storage patterns.",
+  "modules": [
+    {
+      "title": "Local Storage Foundations",
+      "slug": "module-01-local-storage-foundations",
+      "lessons": [
+        "What is Local Storage in Flutter?",
+        "Local Storage vs Remote Database",
+        "Choosing the Right Storage Tool",
+        "Storage Safety and User Experience"
+      ]
+    },
+    {
+      "title": "SharedPreferences for Simple Data",
+      "slug": "module-02-sharedpreferences-for-simple-data",
+      "lessons": [
+        "Adding SharedPreferences",
+        "Saving and Reading Simple Values",
+        "User Settings with SharedPreferences",
+        "Favorites with SharedPreferences",
+        "Common SharedPreferences Mistakes"
+      ]
+    },
+    {
+      "title": "Local JSON and Cache Patterns",
+      "slug": "module-03-local-json-and-cache-patterns",
+      "lessons": [
+        "JSON Encode and Decode Basics",
+        "Saving Lists as JSON",
+        "Caching API Responses",
+        "Cache Expiry and Refresh Logic"
+      ]
+    },
+    {
+      "title": "Hive Style Local Database",
+      "slug": "module-04-hive-style-local-database",
+      "lessons": [
+        "What is Hive?",
+        "Boxes, Keys, and Values",
+        "Saving Model Objects Locally",
+        "Building a Local Notes List",
+        "Hive Limits and Best Practices"
+      ]
+    },
+    {
+      "title": "Offline First App Patterns",
+      "slug": "module-05-offline-first-app-patterns",
+      "lessons": [
+        "What is Offline First?",
+        "Loading Local Data Before Network Data",
+        "Sync Concept with Backend",
+        "Handling Conflicts and Failed Sync"
+      ]
+    },
+    {
+      "title": "Final Project",
+      "slug": "module-06-final-project",
+      "lessons": [
+        "Final Project: Offline Notes App"
+      ]
+    }
+  ]
+}
