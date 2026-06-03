@@ -1,0 +1,64 @@
+{
+  "title": "Riverpod for Flutter Apps",
+  "slug": "riverpod-for-flutter-apps",
+  "level": "intermediate",
+  "total_lessons": 24,
+  "estimated_hours": 7.0,
+  "description": "Learn modern Flutter state management with Riverpod. This course covers Provider, StateProvider, ConsumerWidget, async providers, Notifier, AsyncNotifier, and real app patterns like favorites, theme switching, auth state, and API state.",
+  "modules": [
+    {
+      "title": "Riverpod Foundations",
+      "slug": "module-01-riverpod-foundations",
+      "lessons": [
+        "What is Riverpod?",
+        "Provider vs Riverpod",
+        "Setting Up Riverpod",
+        "Reading Your First Provider",
+        "ref.watch, ref.read, and ref.listen"
+      ]
+    },
+    {
+      "title": "Simple State Providers",
+      "slug": "module-02-simple-state-providers",
+      "lessons": [
+        "Provider for Read Only Values",
+        "StateProvider for Simple Values",
+        "Using ConsumerWidget",
+        "Using Consumer",
+        "ProviderScope and Overrides"
+      ]
+    },
+    {
+      "title": "Async Riverpod",
+      "slug": "module-03-async-riverpod",
+      "lessons": [
+        "FutureProvider Basics",
+        "Handling Loading Error and Data",
+        "FutureProvider with Parameters",
+        "StreamProvider Basics"
+      ]
+    },
+    {
+      "title": "Notifier Based State",
+      "slug": "module-04-notifier-based-state",
+      "lessons": [
+        "What is Notifier?",
+        "Creating a Counter Notifier",
+        "StateNotifier vs Notifier",
+        "AsyncNotifier Basics",
+        "Organizing Riverpod Files"
+      ]
+    },
+    {
+      "title": "Real App Patterns",
+      "slug": "module-05-real-app-patterns",
+      "lessons": [
+        "Favorites System with Riverpod",
+        "Theme Switcher with Riverpod",
+        "Auth State Concept",
+        "API State Pattern",
+        "Final Project: Course Tracker with Riverpod"
+      ]
+    }
+  ]
+}
