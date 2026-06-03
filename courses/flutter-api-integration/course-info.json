@@ -1,0 +1,65 @@
+{
+  "title": "Flutter API Integration",
+  "slug": "flutter-api-integration",
+  "level": "intermediate",
+  "total_lessons": 25,
+  "estimated_hours": 7.0,
+  "description": "Learn how to connect Flutter apps with real backend data using HTTP requests, JSON parsing, models, error handling, pagination, search, authentication concepts, and Riverpod based API state.",
+  "modules": [
+    {
+      "title": "API Foundations",
+      "slug": "module-01-api-foundations",
+      "lessons": [
+        "What is API Integration?",
+        "How HTTP Requests Work",
+        "Adding the HTTP Package",
+        "Understanding API Responses",
+        "Status Codes and Real App Decisions"
+      ]
+    },
+    {
+      "title": "GET Requests and JSON",
+      "slug": "module-02-get-requests-and-json",
+      "lessons": [
+        "Making Your First GET Request",
+        "Decoding JSON in Dart",
+        "Creating a Model from JSON",
+        "Fetching a List of Data",
+        "Showing API Data in Flutter UI"
+      ]
+    },
+    {
+      "title": "Sending Data to APIs",
+      "slug": "module-03-sending-data-to-apis",
+      "lessons": [
+        "POST Requests",
+        "PUT and PATCH Requests",
+        "DELETE Requests",
+        "Headers and Query Parameters",
+        "Reading API Documentation"
+      ]
+    },
+    {
+      "title": "API State and Architecture",
+      "slug": "module-04-api-state-and-architecture",
+      "lessons": [
+        "Loading, Success, and Error States",
+        "Timeouts and Retry",
+        "Service and Repository Pattern",
+        "API State with Riverpod",
+        "Pagination Basics"
+      ]
+    },
+    {
+      "title": "Real World API Features",
+      "slug": "module-05-real-world-api-features",
+      "lessons": [
+        "Search API Requests",
+        "Authentication Token Concept",
+        "Pull to Refresh",
+        "Simple Cache Concept",
+        "Final Project: Course API App"
+      ]
+    }
+  ]
+}
