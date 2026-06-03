@@ -1,0 +1,16 @@
+{
+  "title": "Supabase for Flutter Apps",
+  "slug": "supabase-for-flutter-apps",
+  "level": "advanced",
+  "total_lessons": 24,
+  "estimated_hours": 8.0,
+  "description": "Learn how to build real Flutter apps with Supabase Auth, database CRUD, Row Level Security, Storage, Realtime, clean repository patterns, caching concepts, and a complete notes app project.",
+  "modules": [
+    {"title": "Supabase Foundations","slug": "module-01-supabase-foundations","lessons": ["What is Supabase?","Creating a Supabase Project","Connecting Flutter to Supabase","Understanding the Supabase Client"]},
+    {"title": "Authentication","slug": "module-02-authentication","lessons": ["Supabase Auth Overview","Email Sign Up and Login","Managing Auth State","Google Sign In Concept"]},
+    {"title": "Database CRUD","slug": "module-03-database-crud","lessons": ["Understanding Tables and Rows","Reading Data from Supabase","Insert Data","Update and Delete Data","Filtering, Ordering, and Pagination"]},
+    {"title": "User Data and Security","slug": "module-04-user-data-and-security","lessons": ["User Profile Table","Row Level Security Basics","Policies for User Owned Data","Handling Supabase Errors"]},
+    {"title": "Storage and Realtime","slug": "module-05-storage-and-realtime","lessons": ["Supabase Storage Buckets","Uploading Images from Flutter","Reading Public and Signed URLs","Realtime Table Changes"]},
+    {"title": "App Architecture and Project","slug": "module-06-app-architecture-and-project","lessons": ["Repository Pattern with Supabase","Caching Supabase Data Locally","Final Project: Course Notes App with Supabase"]}
+  ]
+}
