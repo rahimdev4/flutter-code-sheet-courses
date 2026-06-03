@@ -1,0 +1,14 @@
+# ✅ AdMob Checklist
+- [ ] AdMob account created and approved
+- [ ] App registered in AdMob console
+- [ ] Ad unit IDs created (banner, interstitial, rewarded)
+- [ ] google_mobile_ads package added to pubspec.yaml
+- [ ] MobileAds.instance.initialize() called in main()
+- [ ] Test ads verified during development
+- [ ] Banner ad placement tested
+- [ ] Interstitial ad frequency capped (not too frequent)
+- [ ] Rewarded ad flow tested (user gets reward)
+- [ ] Real ad unit IDs replaced before release build
+- [ ] AdMob policies reviewed (no self-clicks, no misleading)
+- [ ] Ad placement does not block content
+- [ ] Ads disabled for premium users (if applicable)

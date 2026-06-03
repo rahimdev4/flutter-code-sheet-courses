@@ -1,0 +1,14 @@
+# ✅ Release Readiness Checklist
+- [ ] App version and build number set correctly in pubspec.yaml
+- [ ] App icon configured (Android adaptive icon)
+- [ ] Splash screen set up
+- [ ] All debug prints and test code removed
+- [ ] Release build runs without errors: `flutter build appbundle`
+- [ ] App permissions reviewed (camera, storage, internet)
+- [ ] Privacy policy created and hosted
+- [ ] Crashes and ANRs checked on real device
+- [ ] Ads tested with test IDs, then switched to real IDs
+- [ ] App tested on multiple screen sizes
+- [ ] All TODO comments resolved
+- [ ] ProGuard / R8 rules reviewed if needed
+- [ ] Final QA pass completed

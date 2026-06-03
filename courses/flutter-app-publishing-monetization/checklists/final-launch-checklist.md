@@ -1,0 +1,15 @@
+# 🚀 Final Launch Day Checklist
+- [ ] Release build tested on real device one final time
+- [ ] Version number incremented
+- [ ] AAB uploaded to production track
+- [ ] Staged rollout configured (start with 10-20%)
+- [ ] Store listing reviewed for typos
+- [ ] Screenshots and feature graphic are final
+- [ ] Privacy policy URL is live and accessible
+- [ ] Data Safety answers are accurate
+- [ ] AdMob using real ad unit IDs
+- [ ] Analytics tracking confirmed
+- [ ] Crash reporting enabled
+- [ ] Social media announcement prepared
+- [ ] App link ready to share after approval
+- [ ] Monitor reviews and crashes for first 48 hours

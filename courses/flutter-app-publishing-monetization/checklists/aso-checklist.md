@@ -1,0 +1,12 @@
+# ✅ ASO (App Store Optimization) Checklist
+- [ ] App title includes main keyword (30 char max)
+- [ ] Short description is compelling (80 char max)
+- [ ] Full description uses keywords naturally (4000 char max)
+- [ ] Screenshots show key features with captions
+- [ ] Feature graphic is professional and eye-catching
+- [ ] App category is correct
+- [ ] Tags/keywords selected carefully
+- [ ] App rating actively requested from happy users
+- [ ] Negative reviews responded to professionally
+- [ ] App updated regularly to boost ranking
+- [ ] Install-to-uninstall ratio monitored

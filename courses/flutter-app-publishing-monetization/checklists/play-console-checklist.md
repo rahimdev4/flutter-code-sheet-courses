@@ -1,0 +1,17 @@
+# ✅ Play Console Checklist
+- [ ] Developer account created and verified ($25 fee paid)
+- [ ] New app created in Play Console
+- [ ] App name and default language set
+- [ ] App category selected
+- [ ] Store listing completed (title, short desc, full desc)
+- [ ] App icon uploaded (512×512)
+- [ ] Feature graphic uploaded (1024×500)
+- [ ] Phone screenshots uploaded (min 2, max 8)
+- [ ] Content rating questionnaire completed
+- [ ] Target audience and content section filled
+- [ ] Data Safety section completed
+- [ ] Privacy policy URL added
+- [ ] App content declarations completed
+- [ ] Internal testing track configured
+- [ ] AAB uploaded to testing track
+- [ ] Testers added and opt-in link shared
