@@ -1,0 +1,36 @@
+import 'package:flutter/material.dart';
+
+const kBg = Color(0xFF050F19);
+const kCard = Color(0xFF0B1A2A);
+
+void main() => runApp(const MyApp());
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(scaffoldBackgroundColor: kBg, appBarTheme: const AppBarTheme(backgroundColor: kCard, foregroundColor: Colors.white)),
+      home: Scaffold(
+        appBar: AppBar(title: const Text('TextField')),
+        body: Padding(
+          padding: const EdgeInsets.all(16),
+          child: TextField(
+            style: const TextStyle(color: Colors.white),
+            decoration: InputDecoration(
+              labelText: 'Enter your name',
+              labelStyle: const TextStyle(color: Colors.white54),
+              filled: true,
+              fillColor: kCard,
+              border: OutlineInputBorder(borderRadius: BorderRadius.circular(8)),
+            ),
+            onChanged: (text) {
+              print('Input: $text');
+            },
+          ),
+        ),
+      ),
+    );
+  }
+}
